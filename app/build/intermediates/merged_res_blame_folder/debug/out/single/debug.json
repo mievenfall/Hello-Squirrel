@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_10.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_15.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_15.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_10.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_10.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_5.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_6.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_14.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_14.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_5.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_4.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_9.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_9.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_my_avatar.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\my_avatar.xml"
+    },
+    {
+        "merged": "com.driuft.hellosquirrel.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.driuft.hellosquirrel.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_3.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_13.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_13.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_12.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_12.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_2.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_2.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_3.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_15.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_15.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_my_avatar.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\my_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_15.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_15.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_7.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_7.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_11.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_11.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_4.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_11.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_11.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_14.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_14.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_7.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_7.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_14.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_14.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_9.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_9.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_3.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_4.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_12.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_12.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_1.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_my_avatar.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\my_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_14.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_14.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_10.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_10.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_5.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_15.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_15.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_12.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_12.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_7.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_7.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_10.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_10.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_15.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_15.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_5.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_11.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_11.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_4.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_8.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_8.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_13.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_13.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_8.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_8.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_9.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_9.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_1.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_13.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_13.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_3.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_9.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_9.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_12.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_12.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_4.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_6.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_15.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_15.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_13.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_13.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_1.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_9.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_7.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_7.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_2.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_2.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_my_avatar.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\my_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_3.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_10.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_10.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_11.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_11.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_14.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_14.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_8.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_8.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_3.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_14.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_14.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_7.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_7.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_13.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_13.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_1.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_11.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_11.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_2.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_my_avatar.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\my_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_15.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_15.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_my_avatar.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\my_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_8.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_4.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_13.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_13.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_9.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_9.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_1.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_10.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_10.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_6.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_12.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_12.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_6.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_6.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_2.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_11.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_11.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_12.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_12.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_3.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_8.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_8.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_14.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_14.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_my_avatar.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\my_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_1.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_7.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-hdpi_avatar_6.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-hdpi\\avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_1.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-anydpi-v24_avatar_11.xml.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-anydpi-v24\\avatar_11.xml"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_6.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_10.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_10.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_5.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_2.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxhdpi_avatar_8.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxhdpi\\avatar_8.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_13.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_13.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_7.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_7.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_5.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-mdpi_avatar_9.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-mdpi\\avatar_9.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_12.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_12.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xhdpi_avatar_8.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xhdpi\\avatar_8.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-xxxhdpi_avatar_4.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-xxxhdpi\\avatar_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-merged_res-29:\\drawable-ldpi_avatar_5.png.flat",
+        "source": "C:\\Users\\mngoc\\.gradle\\daemon\\7.4\\com.driuft.hellosquirrel.app-pngs-24:\\drawable-ldpi\\avatar_5.png"
+    }
+]
